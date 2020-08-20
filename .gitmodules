@@ -1,0 +1,18 @@
+[submodule "sources/meta-freescale"]
+	path = sources/meta-freescale
+	url = https://github.com/Freescale/meta-freescale.git
+[submodule "sources/meta-freescale-3rdparty"]
+	path = sources/meta-freescale-3rdparty
+	url = https://github.com/Freescale/meta-freescale-3rdparty.git
+[submodule "sources/meta-freescale-distro"]
+	path = sources/meta-freescale-distro
+	url = https://github.com/Freescale/meta-freescale-distro.git
+[submodule "sources/meta-openembedded"]
+	path = sources/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
+[submodule "sources/poky"]
+	path = sources/poky
+	url = https://git.yoctoproject.org/git/poky
+[submodule "sources/meta-groupgets"]
+	path = sources/meta-groupgets
+	url = https://github.com/groupgets/meta-groupgets
