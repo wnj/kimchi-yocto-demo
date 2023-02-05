@@ -15,4 +15,4 @@
 	url = https://git.yoctoproject.org/git/poky
 [submodule "sources/meta-groupgets"]
 	path = sources/meta-groupgets
-	url = https://github.com/groupgets/meta-groupgets
+	url = https://github.com/wnj/meta-groupgets
